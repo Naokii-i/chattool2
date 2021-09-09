@@ -1,0 +1,21 @@
+.-Mj8f8IrGZ7D6JcF1Uuy{
+    background-color: whitesmoke;
+    text-align: right;
+    margin: 2em auto;  
+    padding: 1em;
+    width: 90%; /*幅の調節*/
+    color: #666666; /*文字色*/
+    border: 2px solid #ccc; /*線の太さ・色*/
+    border-radius: 8px; 
+}
+
+.-Mj8f5h__rInGhVKmNWc{
+    background-color: pink;
+    text-align: left;
+    margin: 2em auto;  
+    padding: 1em;
+    width: 90%; /*幅の調節*/
+    color: #666666; /*文字色*/
+    border: 2px solid #ccc; /*線の太さ・色*/
+    border-radius: 8px; 
+}
